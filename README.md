@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Talha-Fakhar
-- 🌱 I’m currently working Machine Learning ...
-- 💞️ I’m looking to collaborate on project related to anomaly object detection in ML
+- 🌱 I’m currently working as Backend developer on ROR ...
+- 💞️ I’m looking to collaborate on project related to ROR
 - 📫 Email me : talhafakhar123@gmail.com
 
 <!---
