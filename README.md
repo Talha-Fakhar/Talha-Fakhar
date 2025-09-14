@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Talha-Fakhar
-- 🌱 I’m currently working as Backend developer on ROR ...
-- 💞️ I’m looking to collaborate on project related to ROR
+- 🌱 I’m currently working as MERN Developer ...
+- 💞️ I’m looking to collaborate on projects
 - 📫 Email me : talhafakhar123@gmail.com
 
 <!---
