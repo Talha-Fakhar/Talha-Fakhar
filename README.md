@@ -7,10 +7,10 @@
 </a>
 
 <p>
-  <a href="https://portfoltio-site.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-talhafakhar.com-f2a541?style=flat&logo=googlechrome&logoColor=0b1320&labelColor=0b1320" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/talha-fakhar-506t"><img src="https://img.shields.io/badge/LinkedIn-Talha%20Fakhar-f2a541?style=flat&logo=linkedin&logoColor=0b1320&labelColor=0b1320" alt="LinkedIn" /></a>
-  <a href="media/Talha_Fakhar_CV.pdf"><img src="https://img.shields.io/badge/CV-Download%20PDF-f2a541?style=flat&logo=readme&logoColor=0b1320&labelColor=0b1320" alt="Download CV" /></a>
-  <a href="mailto:talhafakhar506@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-f2a541?style=flat&logo=gmail&logoColor=0b1320&labelColor=0b1320" alt="Email" /></a>
+  <a href="https://portfoltio-site.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-talhafakhar.com-f2a541?style=flat&logo=googlechrome&logoColor=F2A541&labelColor=0b1320" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/talha-fakhar-506t"><img src="https://img.shields.io/badge/LinkedIn-Talha%20Fakhar-f2a541?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2YyYTU0MSIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B&labelColor=0b1320" alt="LinkedIn" /></a>
+  <a href="media/Talha_Fakhar_CV.pdf"><img src="https://img.shields.io/badge/CV-Download%20PDF-f2a541?style=flat&logo=readme&logoColor=F2A541&labelColor=0b1320" alt="Download CV" /></a>
+  <a href="mailto:talhafakhar506@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-f2a541?style=flat&logo=gmail&logoColor=F2A541&labelColor=0b1320" alt="Email" /></a>
 </p>
 
 <p>
@@ -25,14 +25,14 @@
 
 ## `01` About
 
-Full-stack software engineer with **2+ years** of experience building scalable, high-performance web applications with **Ruby on Rails** and the **MERN stack** (Node.js, Express, React). I'm strongest where the data model matters: relational design on **PostgreSQL and MySQL**, RESTful APIs, **financial and ledger systems**, authentication with **Auth0**, and deployments on **Google Cloud Platform**.
+Full-stack software engineer with **3+ years** of experience building scalable, high-performance web applications with **Ruby on Rails** and the **MERN stack** (Node.js, Express, React). I'm strongest where the data model matters: relational design on **PostgreSQL and MySQL**, RESTful APIs, **financial and ledger systems**, authentication with **Auth0**, and deployments on **Google Cloud Platform**.
 
 I'm currently doing my M1 Master's in **Innovative Information Systems** at **Université Toulouse Capitole**, and I'm looking for a software engineering internship.
 
 <table align="center">
   <tr>
-    <td align="center" width="25%"><h2>2+</h2>years building<br/>production web apps</td>
-    <td align="center" width="25%"><h2>6</h2>client web apps<br/>delivered at Stackworx</td>
+    <td align="center" width="25%"><h2>3+</h2>years building<br/>production web apps</td>
+    <td align="center" width="25%"><h2>8+</h2>client web apps<br/>delivered at Stackworx</td>
     <td align="center" width="25%"><h2>5x</h2>Dean's List<br/>at FAST NUCES</td>
     <td align="center" width="25%"><h2>3.42</h2>GPA<br/>on a 4.00 scale</td>
   </tr>
@@ -43,7 +43,7 @@ I'm currently doing my M1 Master's in **Innovative Information Systems** at **Un
 ```mermaid
 timeline
     title From Computer Engineering to full-stack delivery
-    2020 : Starts BSc in Computer Engineering at FAST NUCES
+    2020 : Starts BS in Electrical Engineering(Computer Engineering) at FAST NUCES
     2023 : Wins Gold Medal at IEEE ISYWIC
     2024 : Graduates with a 3.42 GPA : Joins Visnext as Associate Software Engineer
     2025 : Joins Stackworx as Software Engineer
@@ -55,7 +55,7 @@ timeline
 ### Software Engineer · Stackworx
 <sub>Oct 2025 – Aug 2026</sub>
 
-Delivered **6 client web applications** using Ruby on Rails, React and Node.js for sports, franchise, nonprofit, media, freight and real-estate clients.
+Delivered **8+ client web applications** using Ruby on Rails, React and Node.js for sports, franchise, nonprofit, media, freight and real-estate clients.
 
 <table>
   <tr>
@@ -192,22 +192,15 @@ flowchart TD
 | **Awards** | Gold Medal, IEEE ISYWIC (2023) · Dean's List, 5 times, FAST NUCES |
 | **Certifications** | Introduction to Relational Databases and SQL · Google AI Essentials · Introduction to Machine Learning |
 
-## `07` GitHub activity
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=thestackworx&show_icons=true&hide_border=false&bg_color=0b1320&title_color=f2a541&text_color=c9d4e5&icon_color=f2a541&border_color=1b2a41" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thestackworx&layout=compact&hide_border=false&bg_color=0b1320&title_color=f2a541&text_color=c9d4e5&border_color=1b2a41" alt="Top languages" />
-</p>
-
-## `08` Let's talk
+## `07` Let's talk
 
 I'm looking for a **software engineering internship** where I can work on full-stack products, ideally with a team that cares about solid data models and reliable APIs. If that sounds like yours, I'd love to hear from you.
 
 <p align="center">
-  <a href="https://talhafakhar.com"><img src="https://img.shields.io/badge/Portfolio-f2a541?style=for-the-badge&logo=googlechrome&logoColor=0b1320&labelColor=0b1320" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/talha-fakhar-506t"><img src="https://img.shields.io/badge/LinkedIn-f2a541?style=for-the-badge&logo=linkedin&logoColor=0b1320&labelColor=0b1320" alt="LinkedIn" /></a>
-  <a href="media/Talha_Fakhar_CV.pdf"><img src="https://img.shields.io/badge/CV-Download%20PDF-f2a541?style=for-the-badge&logo=readme&logoColor=0b1320&labelColor=0b1320" alt="CV" /></a>
-  <a href="mailto:talhafakhar506@gmail.com"><img src="https://img.shields.io/badge/talhafakhar506%40gmail.com-f2a541?style=for-the-badge&logo=gmail&logoColor=0b1320&labelColor=0b1320" alt="Email" /></a>
+  <a href="https://talhafakhar.com"><img src="https://img.shields.io/badge/Portfolio-f2a541?style=for-the-badge&logo=googlechrome&logoColor=f2a541&labelColor=0b1320" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/talha-fakhar-506t"><img src="https://img.shields.io/badge/LinkedIn-f2a541?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2YyYTU0MSIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B&labelColor=0b1320" alt="LinkedIn" /></a>
+  <a href="media/Talha_Fakhar_CV.pdf"><img src="https://img.shields.io/badge/CV-Download%20PDF-f2a541?style=for-the-badge&logo=readme&logoColor=f2a541&labelColor=0b1320" alt="CV" /></a>
+  <a href="mailto:talhafakhar506@gmail.com"><img src="https://img.shields.io/badge/talhafakhar506%40gmail.com-f2a541?style=for-the-badge&logo=gmail&logoColor=f2a541&labelColor=0b1320" alt="Email" /></a>
 </p>
 
 <img src="media/banner-footer.svg" width="100%" alt="" />
