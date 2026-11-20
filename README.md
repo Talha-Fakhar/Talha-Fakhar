@@ -171,7 +171,7 @@ flowchart TD
 ## `05` Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ruby,rails,js,react,nodejs,express,postgres,mysql,gcp,auth0,git,github,html,css&perline=14" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=ruby,rails,js,react,nodejs,express,postgres,mysql,gcp,git,github,html,css&perline=14" alt="Tech stack" />
 </p>
 
 | Area | Tools |
