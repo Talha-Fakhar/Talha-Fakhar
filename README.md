@@ -2,7 +2,7 @@
 
 ### I build scalable web apps and financial systems, from database schema to UI.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-talhafakhar.com-0b1320?style=flat-square&logo=googlechrome&logoColor=f2a541)](https://talhafakhar.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-talhafakhar.com-0b1320?style=flat-square&logo=googlechrome&logoColor=f2a541)](https://portfoltio-site.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Talha%20Fakhar-0b1320?style=flat-square&logo=linkedin&logoColor=f2a541)](https://www.linkedin.com/in/talha-fakhar-506t)
 [![Email](https://img.shields.io/badge/Email-talhafakhar506%40gmail.com-0b1320?style=flat-square&logo=gmail&logoColor=f2a541)](mailto:talhafakhar506@gmail.com)
 ![Status](https://img.shields.io/badge/Open%20to-Software%20Engineer%20Internships-f2a541?style=flat-square&labelColor=0b1320)
