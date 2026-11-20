@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="media/banner-header.svg" width="100%" alt="Talha Fakhar, full-stack software engineer" />
+<img src="https://github.com/Talha-Fakhar/Talha-Fakhar/raw/main/media/banner-header.svg?v=2" width="100%" alt="Talha Fakhar, full-stack software engineer" />
 
 <a href="https://github.com/thestackworx">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=F2A541&center=true&vCenter=true&width=720&lines=Full-stack+engineer+%C2%B7+Rails+%2B+React;Ledgers%2C+marketplaces+and+approval+workflows;M1+student+%40+Universit%C3%A9+Toulouse+Capitole;Open+to+software+engineering+internships" alt="Typing SVG" />
